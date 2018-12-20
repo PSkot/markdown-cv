@@ -61,7 +61,7 @@ Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen <br/>
 Computer Science I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen <br/>
 Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| The Technical University of Denmark
 <br/><br/>
 
@@ -80,7 +80,7 @@ SQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> Python \| C/C++ \| JavaScript | Git/GitHub
+<br/> C/C++ \| Python \| Git/GitHub
 
 <br/>
 
@@ -102,16 +102,24 @@ __Other relevant skills__
 
 ## References
 
+__Emilie Kristensen__ <br/>
+Previous Head of Customer Care \| 4finance <br/>
+<div id="webaddress">
+<a href="tel:004553588528">+45 53 58 85 28</a> |
+<a href="mailto:emilie.kristensendk@gmail.com">emilie.kristensendk@gmail.com</a> | <a href="https://www.linkedin.com/in/emilie-kristensen-506822155/">LinkedIn Profile</a>
+<br/><br/>
+</div>
+
 __Stella Jemeljanova__ <br/>
 Previous Regional Head of Risk (Nordics) \| 4finance <br/>
 <div id="webaddress">
+<a href="tel:00371729727710">+371 27 727 710</a> |
 <a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
 <a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profile</a>
 <br/><br/>
 </div>
 
 __Minghui Shan__ <br/>
-
 Finance Manager \| 4finance <br/>
 <div id="webaddress">
 <a href="tel:004520953333">+45 20 95 33 33</a> |
