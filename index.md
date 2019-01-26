@@ -17,8 +17,8 @@ Data Scientist, M.Sc. in Finance and Investments
 
 ## Profile
 My name is Peter. I am 25 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for advanced analytics. Until now, my approach has mostly been statistical,
-although I have recently become more acquainted with Machine Learning methodologies, which I intend to explore further. In addition, I have started to dive a bit into software programming as well.<br/>
+I am a highly self-driven individual with a flair and interest for Data Science. Until now, my approach has mostly been statistical,
+although I have recently started exploring/utilizing Machine Learning methodologies as well. In addition, I have also started to dive a bit into software programming.<br/>
 Apart from my professional profile, I am into playing music, gaming, running and spending time with friends, colleagues and family.
 
 ## Work Experience
@@ -76,11 +76,11 @@ __Tools/coding languages__
 
 
 Proficient/Experienced: <br/>
-SQL \| R \| SAS \| Excel/VBA
+SQL/PostgreSQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> C/C++ \| Python \| Git/GitHub
+<br/> C/C++ \| Python (Pandas, Scikit-Learn) \| Java/JavaScript \| Git/GitHub \| JSON, XML \| Jupyter \| Anaconda, Azure
 
 <br/>
 
@@ -88,9 +88,9 @@ __Other relevant skills__
 
 - Data extraction/manipulation
 - Statistical/Mathematical modelling
+- Machine Learning
 - Risk Management
-- Finance/Financial modelling
-- Forecasting
+
 
 <br/>
 <br/>
@@ -103,7 +103,7 @@ __Other relevant skills__
 ## References
 
 __Emilie Kristensen__ <br/>
-Previous Head of Customer Care \| 4finance <br/>
+Nordic Product Owner \| DIBS Payment Services Denmark <br/>
 <div id="webaddress">
 <a href="tel:004553588528">+45 53 58 85 28</a> |
 <a href="mailto:emilie.kristensendk@gmail.com">emilie.kristensendk@gmail.com</a> | <a href="https://www.linkedin.com/in/emilie-kristensen-506822155/">LinkedIn Profile</a>
@@ -111,7 +111,7 @@ Previous Head of Customer Care \| 4finance <br/>
 </div>
 
 __Stella Jemeljanova__ <br/>
-Previous Regional Head of Risk (Nordics) \| 4finance <br/>
+Regional Director \| Sunfinance Group <br/>
 <div id="webaddress">
 <a href="tel:00371729727710">+371 27 727 710</a> |
 <a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
