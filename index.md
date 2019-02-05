@@ -19,16 +19,15 @@ Data Scientist, M.Sc. in Finance and Investments
 My name is Peter. I am 25 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
 I am a highly self-driven individual with a flair and interest for Data Science. Until now, my approach has mostly been statistical,
 although I have recently started exploring/utilizing Machine Learning methodologies as well. In addition, I have also started to dive a bit into software programming.<br/>
-Apart from my professional profile, I am into playing music, gaming, running and spending time with friends, colleagues and family.
-
+Apart from my professional profile, I am into playing music, running and spending time with friends, colleagues and family.
 ## Work Experience
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
 As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
-for our two products, VIVUS.DK and Zaplo.dk.
+for our two lending products, VIVUS.DK and Zaplo.dk.
 My tasks include, but are not limited to, monitoring our loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
-and ultimately develop and communicate an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
+and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
 
 <br/>
 
@@ -54,17 +53,17 @@ __B.Sc. in International Business, Copenhagen Business School__<br/>
 International Business provides an overview of most areas usually covered by CBS, including economics, financial accounting, statistics, marketing, strategy and communication.
 <br/><br/>
 
-__Other courses__
+__Other courses__  
+
 
 `Completed`
-Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen <br/>
 Computer Science I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen <br/>-->
 Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| The Technical University of Denmark
-<br/><br/>
-
+<br/>
 `Ongoing`
 Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
@@ -80,18 +79,20 @@ SQL/PostgreSQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> C/C++ \| Python (Pandas, Scikit-Learn) \| Java/JavaScript \| Git/GitHub \| JSON, XML \| Jupyter \| Anaconda, Azure
+<br/> C/C++ \| Python (Pandas, Scikit-Learn) \| Git/GitHub
 
 <br/>
 
 __Other relevant skills__
 
+- Risk Management
 - Data extraction/manipulation
 - Statistical/Mathematical modelling
 - Machine Learning
-- Risk Management
 
 
+
+<br/>
 <br/>
 <br/>
 <br/>
