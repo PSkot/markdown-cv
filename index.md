@@ -17,16 +17,16 @@ Data Scientist, M.Sc. in Finance and Investments
 
 ## Profile
 My name is Peter. I am 25 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for Data Science. Until now, my approach has mostly been statistical,
-although I have recently started exploring/utilizing Machine Learning methodologies as well. In addition, I have also started to dive a bit into software programming.<br/>
+I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Until recently, I have mostly worked with more traditional analytics (exploratory, statistical etc.),
+although I have recently started exploring/utilizing Machine Learning methodologies as well.<br/>
 Apart from my professional profile, I am into playing music, running and spending time with friends, colleagues and family.
 ## Work Experience
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
 As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
-for our two lending products, VIVUS.DK and Zaplo.dk.
-My tasks include, but are not limited to, monitoring our loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
+for our two lending products, VIVUS.DK and Zaplo.dk. My responsibilities cover all areas of risk related to the business, with my primary workload being on Credit- and Fraud risk. <br/>
+My tasks include, but are not limited to, monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
 and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
 
 <br/>
@@ -64,9 +64,12 @@ Computer Science I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen <br/>-->
 Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| The Technical University of Denmark
 <br/>
+<br/>
 `Ongoing`
 Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
+Machine Learning by Andrew Ng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&#8202;&#8202; \| Coursera
 
 
 ## Skills
@@ -79,7 +82,7 @@ SQL/PostgreSQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> C/C++ \| Python (Pandas, Scikit-Learn) \| Git/GitHub
+<br/> Python \| Power BI \| C/C++ \| Git/GitHub
 
 <br/>
 
