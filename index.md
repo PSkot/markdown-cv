@@ -16,18 +16,18 @@ Data Scientist, M.Sc. in Finance and Investments
 <img src="Skof.jpg">
 
 ## Profile
-My name is Peter. I am 25 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Until recently, I have mostly worked with more traditional analytics (exploratory, statistical etc.),
-although I have recently started exploring/utilizing Machine Learning methodologies as well.<br/>
-Apart from my professional profile, I am into playing music, running and spending time with friends, colleagues and family.
+My name is Peter. I am 26 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
+I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Previously, I have worked extensively with reporting and exploratory analytics, while I have now moved increasingly into advanced analytics, such as statistical and Machine Learning based modelling.
+Apart from my professional profile, I am into playing music, programming and socializing with friends, colleagues and family.
 ## Work Experience
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
 As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
 for our two lending products, VIVUS.DK and Zaplo.dk. My responsibilities cover all areas of risk related to the business, with my primary workload being on Credit- and Fraud risk. <br/>
-My tasks include, but are not limited to, monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
+My tasks include, but are not limited to, monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics/modelling related to optimization of the risk/profitability of the business
 and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
+
 
 <br/>
 
@@ -78,16 +78,17 @@ __Tools/coding languages__
 
 
 Proficient/Experienced: <br/>
-SQL/PostgreSQL \| R \| SAS \| Excel/VBA
+SQL/PostgreSQL \| Python \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> Python \| C/C++ \| Git/GitHub
+<br/> C/C++ \| Git/GitHub
 
 <br/>
 
 __Other relevant skills__
 
+- Risk Management
 - Data extraction/manipulation
 - Statistical/Mathematical modelling
 - Machine Learning
