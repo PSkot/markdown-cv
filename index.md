@@ -17,7 +17,7 @@ Data Scientist, M.Sc. in Finance and Investments
 
 ## Profile
 My name is Peter. I am 26 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Previously, I have worked extensively with reporting and exploratory analytics, while I have now moved increasingly into advanced analytics, such as statistical and Machine Learning based modelling.
+I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Previously, I have worked extensively with reporting and exploratory analytics, while I have now moved increasingly into advanced analytics, such as statistical and Machine Learning based modelling. <br/>
 Apart from my professional profile, I am into playing music, programming and socializing with friends, colleagues and family.
 ## Work Experience
 
