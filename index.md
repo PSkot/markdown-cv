@@ -82,16 +82,16 @@ SQL/PostgreSQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> Python \| Power BI \| C/C++ \| Git/GitHub
+<br/> Python \| C/C++ \| Git/GitHub
 
 <br/>
 
 __Other relevant skills__
 
-- Risk Management
 - Data extraction/manipulation
 - Statistical/Mathematical modelling
 - Machine Learning
+- Data visualization
 
 
 
