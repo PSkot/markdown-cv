@@ -1,0 +1,137 @@
+I"<h1 id="peter-asbæk-skøt">Peter Asbæk Skøt</h1>
+
+<p> Risk Analyst | Hobby programmer | Aspiring Kaggler </p>
+
+<div id="webaddress">
+<a href="tel:004528696008">+45 28 69 60 08</a>
+|<a href="mailto:peter.skoet@gmail.com">peter.skoet@gmail.com</a>
+| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn</a>
+| <a href="https://Github.com/PSkot/">Github</a>
+</div>
+
+<p><img src="Skof.jpg" /></p>
+
+<h2 id="profile">Profile</h2>
+<p style="hyphens: auto;"> My name is Peter. I am 27 years old and currently working at the international consumer lending company, 4finance.
+I am a highly self-driven person with great interest in Data Science/Analysis and programming. I have worked extensively with (risk) data analysis and modelling, ranging from building and automating reports to developing more advanced models.
+<br />
+Apart from my professional profile, I am into gaming, playing music, programming and socializing with friends, colleagues and family. </p>
+<h2 id="work-experience">Work Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021 - </code>
+<strong>Senior Risk Analyst, 4finance</strong> <br />
+In my current role I work as one of the primary analytical resources in the Nordic/Baltic region, using my experience to support all the regions’ risk departments with analytics and risk modelling. <br />
+<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2020 - 2020</code>
+<strong>Group Head of Advanced Risk Strategy, 4finance</strong> <br />
+In this role I served as a project manager and link between the CRO, IT and Data Science as well as the local businesses of 4finance.
+My tasks revolved heavily around deploying our Flask-based, internally developed scoring- and modelling solution as well as other strategic risk initiatives. <br /></p>
+
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2016 - 2019</code>
+<strong>Data Scientist, 4finance</strong> <br />
+As Data Scientist I carried the primary responsibility, along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy for our two lending products, VIVUS.DK and Zaplo.dk. My responsibilities covered all areas of risk related to the business, with my primary workload being on analysis and modelling of Credit- and Fraud risk as well as implementation of risk policies. <br />
+<!--My tasks included monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics/modelling related to optimization of the risk/profitability of the business
+and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.--></p>
+
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2016 - 2016</code>
+<strong>Trainee (sales analytics), GroupM</strong><br />
+As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, mostly based on linear regression.
+<br /></p>
+
+<!--`2014 - 2016`
+__Assistant in Finance, 4finance__<br/>
+As assistant in Finance, I was responsible for daily book keeping, as well as assisting with understanding and adding new information to our accounting system, iScala.
+I was also involved in a few risk analysis projects.-->
+
+<h2 id="education">Education</h2>
+<p><code class="language-plaintext highlighter-rouge">2015 - 2017</code>
+<strong>M.Sc. in Finance and Investments, Copenhagen Business School</strong><br />
+This education provides a quantitative approach to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
+A few useful tools (Excel/VBA, R) are also taught at this concentration.
+<br /><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2012 - 2015</code>
+<strong>B.Sc. in International Business, Copenhagen Business School</strong><br />
+A fairly generic business education, covering e.g. economics, accounting, statistics, marketing and communication.
+<br /></p>
+
+<h2 id="skills">Skills</h2>
+
+<p><strong>Tools/coding languages</strong></p>
+
+<p>Proficient/Experienced: <br />
+SQL/PostgreSQL | Python | R | Excel/VBA
+<br /><br /></p>
+
+<p>Familiarity:
+<br /> C/C++ | SAS | Git/GitHub</p>
+
+<p><br /></p>
+
+<p><strong>Other relevant skills</strong></p>
+
+<ul>
+  <li>Data Analysis/Visualization</li>
+  <li>Programming</li>
+  <li>Machine Learning</li>
+  <li>Risk Management</li>
+</ul>
+
+<div style="page-break-after: always;"></div>
+
+<h2 id="projects-and-courses">Projects and courses</h2>
+<p>Apart from my work, much of my learning comes from private projects and courses, usually carried out in my spare time.
+Below are a few highlighted courses and projects I have worked on. More projects and their code may be found on my <a style="text-decoration:none; font-style:italic;" href="https://Github.com/PSkot/">Github</a>.</p>
+
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">Projects</code>
+<!--Kaggle Repository <span> | My journey to Kaggle Grandmaster </span>--></p>
+
+<p>Snake-NN: A genetic algorithm learning Snake <span> | My first reinforcement learning + Pygame project </span>
+ <br /><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">Courses</code>
+Mathematical Software Programming <span> | Technical University of Denmark </span></p>
+
+<p>Machine Learning by Andrew Ng <span> | Coursera </span></p>
+
+<p>Advanced Machine Learning by IBM <span> | Coursera </span></p>
+
+<!--AWS Fundamentals <span> | Coursera </span> -->
+
+<!--__Spoken/written languages__-->
+
+<!--Danish, English-->
+
+<h2 id="references">References</h2>
+
+<p><strong>Emilie Kristensen</strong> <br />
+Nordic Product Owner | DIBS Payment Services Denmark <br /></p>
+<div id="webaddress">
+<a href="tel:004553588528">+45 53 58 85 28</a> |
+<a href="mailto:emilie.kristensendk@gmail.com">emilie.kristensendk@gmail.com</a> | <a href="https://www.linkedin.com/in/emilie-kristensen-506822155/">LinkedIn Profile</a>
+<br /><br />
+</div>
+
+<p><strong>Stella Jemeljanova</strong> <br />
+Founder and CEO | Expalux <br /></p>
+<div id="webaddress">
+<a href="tel:00371729727710">+371 27 727 710</a> |
+<a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
+<a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profile</a>
+<br /><br />
+</div>
+
+<p><strong>Minghui Shan</strong> <br />
+Finance Manager | 4finance <br /></p>
+<div id="webaddress">
+<a href="tel:004520953333">+45 20 95 33 33</a> |
+<a href="mailto:minghuicn@yahoo.com">minghuicn@yahoo.com</a> | <a href="https://www.linkedin.com/in/minghui-shan-717508b/">LinkedIn Profile</a>
+</div>
+:ET

@@ -204,6 +204,11 @@ em {
 	color: #2d4e5e
 }
 
+span {
+	position: absolute;
+	left: 300px;
+}
+
 strong {
 	font-weight: bold;
 }

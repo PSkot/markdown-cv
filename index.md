@@ -3,74 +3,70 @@ layout: cv
 title: Peter Asbæk Skøt
 ---
 # Peter Asbæk Skøt
-Data Scientist, M.Sc. in Finance and Investments
+
+<p> Risk Analyst | Hobby programmer | Aspiring Kaggler </p>
 
 
 <div id="webaddress">
-<a href="tel:004528696008">+45 28 69 60 08</a> |
-<a href="mailto:pete_skoett@hotmail.com">pete_skoett@hotmail.com</a>
-| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn Profile</a>
+<a href="tel:004528696008">+45 28 69 60 08</a>
+|<a href="mailto:peter.skoet@gmail.com">peter.skoet@gmail.com</a>
+| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn</a>
+| <a href="https://Github.com/PSkot/">Github</a>
 </div>
 
 
 <img src="Skof.jpg">
 
 ## Profile
-My name is Peter. I am 26 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for Data Science and Risk Management. Previously, I have worked extensively with reporting and exploratory analytics, while I have now moved increasingly into advanced analytics, such as statistical and Machine Learning based modelling. <br/>
-Apart from my professional profile, I am into playing music, programming and socializing with friends, colleagues and family.
+<p style = "hyphens: auto;"> My name is Peter. I am 27 years old and currently working at the international consumer lending company, 4finance.
+I am a highly self-driven person with great interest in Data Science/Analysis and programming. I have worked extensively with (risk) data analysis and modelling, ranging from building and automating reports to developing more advanced models.
+<br/>
+Apart from my professional profile, I am into gaming, playing music, programming and socializing with friends, colleagues and family. </p>
 ## Work Experience
 
-`2016 -`
-__Data Scientist, 4finance__ <br/>
-As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
-for our two lending products, VIVUS.DK and Zaplo.dk. My responsibilities cover all areas of risk related to the business, with my primary workload being on Credit- and Fraud risk. <br/>
-My tasks include, but are not limited to, monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics/modelling related to optimization of the risk/profitability of the business
-and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
+`2021 - `
+__Senior Risk Analyst, 4finance__ <br/>
+In my current role I work as one of the primary analytical resources in the Nordic/Baltic region, using my experience to support all the regions' risk departments with analytics and risk modelling. <br/>
+<br/>
 
+
+`2020 - 2020`
+__Group Head of Advanced Risk Strategy, 4finance__ <br/>
+In this role I served as a project manager and link between the CRO, IT and Data Science as well as the local businesses of 4finance.
+My tasks revolved heavily around deploying our Flask-based, internally developed scoring- and modelling solution as well as other strategic risk initiatives. <br/>
+
+<br/>
+
+`2016 - 2019`
+__Data Scientist, 4finance__ <br/>
+As Data Scientist I carried the primary responsibility, along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy for our two lending products, VIVUS.DK and Zaplo.dk. My responsibilities covered all areas of risk related to the business, with my primary workload being on analysis and modelling of Credit- and Fraud risk as well as implementation of risk policies. <br/>
+<!--My tasks included monitoring our systems/loan portfolio, developing automated KPI reports, data manipulation/analytics/modelling related to optimization of the risk/profitability of the business
+and ultimately develop, communicate and ensuring the deployment of an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.-->
 
 <br/>
 
 `2016 - 2016`
 __Trainee (sales analytics), GroupM__<br/>
-As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, mostly based on regression analysis.
-<br/><br/>
+As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, mostly based on linear regression.
+<br/>
 
-`2014 - 2016`
+<!--`2014 - 2016`
 __Assistant in Finance, 4finance__<br/>
 As assistant in Finance, I was responsible for daily book keeping, as well as assisting with understanding and adding new information to our accounting system, iScala.
-I was also involved in a few risk analysis projects.
+I was also involved in a few risk analysis projects.-->
+
 
 ## Education
 `2015 - 2017`
 __M.Sc. in Finance and Investments, Copenhagen Business School__<br/>
-Being a relatively new concentration at CBS, this education provides a fairly quantitative approach (relative to other finance educations at CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
+This education provides a quantitative approach to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
 A few useful tools (Excel/VBA, R) are also taught at this concentration.
 <br/><br/>
 
 `2012 - 2015`
 __B.Sc. in International Business, Copenhagen Business School__<br/>
-International Business provides an overview of most areas usually covered by CBS, including economics, financial accounting, statistics, marketing, strategy and communication.
-<br/><br/>
-
-__Other courses__  
-
-
-`Completed`
-<!--Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen <br/>
-Computer Science I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen <br/>-->
-Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| The Technical University of Denmark
+A fairly generic business education, covering e.g. economics, accounting, statistics, marketing and communication.
 <br/>
-<br/>
-`Ongoing`
-Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
-Machine Learning by Andrew Ng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&#8202;&#8202; \| Coursera
-
 
 ## Skills
 
@@ -78,29 +74,48 @@ __Tools/coding languages__
 
 
 Proficient/Experienced: <br/>
-SQL/PostgreSQL \| Python \| R \| SAS \| Excel/VBA
+SQL/PostgreSQL \| Python \| R \| Excel/VBA
 <br/><br/>
 
 Familiarity:
-<br/> C/C++ \| Git/GitHub
+<br/> C/C++ \| SAS \| Git/GitHub
 
 <br/>
 
 __Other relevant skills__
 
-- Risk Management
-- Data extraction/manipulation
-- Statistical/Mathematical modelling
+- Data Analysis/Visualization
+- Programming
 - Machine Learning
-- Data visualization
+- Risk Management
+
+<div style="page-break-after: always;"></div>
 
 
 
+## Projects and courses
+Apart from my work, much of my learning comes from private projects and courses, usually carried out in my spare time.
+Below are a few highlighted courses and projects I have worked on. More projects and their code may be found on my <a style="text-decoration:none; font-style:italic;" href="https://Github.com/PSkot/">Github</a>.
+
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+`Projects`
+<!--Kaggle Repository <span> | My journey to Kaggle Grandmaster </span>-->
+
+Snake-NN: A genetic algorithm learning Snake <span> | My first reinforcement learning + Pygame project </span>
+ <br/><br/>
+
+`Courses`
+Mathematical Software Programming <span> | Technical University of Denmark </span>
+
+Machine Learning by Andrew Ng <span> | Coursera </span>
+
+Advanced Machine Learning by IBM <span> | Coursera </span>
+
+<!--AWS Fundamentals <span> | Coursera </span> -->
+
+
+
 <!--__Spoken/written languages__-->
 
 <!--Danish, English-->
@@ -116,7 +131,7 @@ Nordic Product Owner \| DIBS Payment Services Denmark <br/>
 </div>
 
 __Stella Jemeljanova__ <br/>
-Regional Director \| Sunfinance Group <br/>
+Founder and CEO \| Expalux <br/>
 <div id="webaddress">
 <a href="tel:00371729727710">+371 27 727 710</a> |
 <a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
